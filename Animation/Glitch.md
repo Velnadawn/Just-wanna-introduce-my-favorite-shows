@@ -7,10 +7,10 @@ Glitch Productions 是一家位於澳洲的獨立3D動畫工作室，由 Luke Le
 
 ### Meta Runner
 
-### Murder drones
-
+### Murder Drones
+Murder Drones 是2021年出的科幻類3D動畫，其反烏托邦、恐怖、喜劇的特色以及可愛，作者是Liam。內容講述
 ### The Amazing Digital Circus
-The amazing digital circus，簡稱TADC，是一部3D動畫，劇情及角色設計由Gooseworx，其風格獨特、充滿黑色幽默。這部動畫的劇情和角色設計都非常精細，每一集都可以看到角色的成長且，每一次的重刷都可以找到更多的細節和彩蛋。就我個人而言，吸引人的地方不只是角色的設計和成長，還有那猜不透未來走向的劇情
+The amazing digital circus，簡稱TADC，是一部3D動畫，劇情及角色設計由Gooseworx，其風格獨特、充滿黑色幽默。這部動畫的劇情和角色設計都非常精細，每一集都可以看到角色的成長且，每一次的重刷都可以找到更多的細節和彩蛋。就我個人而言，吸引人的地方不只是角色的設計和成長，還有那猜不透未來走向的劇情。
 ### Gaslight District
 2025年繼TADC後的新作，
 ### Knights Of Guinevere
