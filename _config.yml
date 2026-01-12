@@ -1,0 +1,7 @@
+title: My favorite animations<3
+theme: jekyll-theme-architect
+
+collections:
+  animation:
+    output: true
+    permalink: /animation/:name
